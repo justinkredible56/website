@@ -1,0 +1,72 @@
+html
+{
+background-image: url(Images/background4.jpg);
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+
+}
+
+h1
+{
+color: rgb(185,20,14);
+font-style:italic;
+}
+
+h5
+{
+color: rgb(185,20,14);
+font-style:italic;
+
+}
+
+
+div.nav
+{
+font-style:italic;
+}
+
+body
+{
+opacity: .85;
+background-color: #CECECE;
+width: 800px;
+height: 800px;
+margin: 0 auto;
+margin-top: 50px;
+border-radius: 5px;
+padding: 50px;
+box-shadow: 0 0 20px 1px white;
+border: 1px solid black;
+}
+
+hr
+{
+height: 3px;
+width: 300px;
+
+color: white;
+background-color: white;
+border: 0;
+text-align: left;
+margin-left: 0;
+}
+th
+{
+text-align: left;
+color: rgb(185,20,14);
+font-style: italic;
+padding-right: 20px;
+}
+td 
+{
+padding-right: 20px;
+opacity: 1.0;
+font-weight: 900;
+}
+
+li
+{
+padding-left: 20px;
+}
